@@ -1,0 +1,3610 @@
+[
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0340.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\69462.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\19006.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0814.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64989.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0002.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0988.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1218.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05375.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54754.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1475.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1125.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\12817.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\35441.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52386.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1881.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\35373.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\57561.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58785.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47423.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1407.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46484.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05054.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26695.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1492.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21859.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18886.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34032.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0337.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36284.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\59374.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1366.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1172.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\68489.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\51873.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30563.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0101.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\71337.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\39178.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\27585.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66144.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\62296.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0738.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\55770.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33599.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46740.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1478.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1977.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1927.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\14943.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\59011.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\35617.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73929.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66014.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21146.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\72458.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1691.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1983.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1139.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43468.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66609.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0543.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1451.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1805.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02359.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09758.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52266.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\56789.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\22703.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06185.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58942.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0111.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\49746.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\16526.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1134.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1738.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09021.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0178.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\11932.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24628.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0213.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54193.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34695.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0964.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0841.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0079.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05345.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\35037.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\27427.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1558.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0028.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36386.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52234.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36069.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1193.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24742.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23445.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0938.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36323.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1170.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61046.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25476.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\50866.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21003.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25783.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37799.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0214.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23896.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66999.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0207.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1096.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0025.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\41687.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\69089.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53860.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\74967.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1338.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26596.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18894.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73739.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\62152.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67503.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0023.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\59371.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0098.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46741.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43867.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\29591.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0775.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\12449.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0857.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64817.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0528.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24481.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1921.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1831.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46344.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1329.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\65234.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\20425.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58242.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1229.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0159.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\31617.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61645.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0618.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1133.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15480.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\32085.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0924.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54971.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1005.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\70142.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\00065.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1494.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\45150.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58407.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1578.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26570.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\48765.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0321.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0343.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09029.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53607.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52520.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\72942.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0919.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\45375.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26068.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05809.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1589.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1058.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24646.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0687.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\27342.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44329.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\49702.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1363.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1419.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1355.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1554.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0258.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0301.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09334.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1437.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21480.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1610.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52098.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\50742.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18148.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37238.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0897.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64633.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0161.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0150.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0329.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0382.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64260.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18596.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1203.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\51703.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0054.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1252.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1945.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0151.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44935.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73571.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\65912.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1462.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52017.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0413.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18664.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53392.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0429.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0016.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0309.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\57181.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06799.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67025.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\70549.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\01691.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06510.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\27742.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37090.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\03820.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15409.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0041.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17538.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30413.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1827.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33091.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\48902.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0006.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\42070.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1333.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\56355.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\22243.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1871.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54309.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58060.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61748.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1372.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34541.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23967.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0465.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\50150.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1789.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25300.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58497.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\74507.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26824.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\22468.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40337.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05664.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0083.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\70656.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1719.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18844.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33441.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17430.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25032.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24264.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1499.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58960.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0091.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33962.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24115.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21920.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\45252.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0306.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1830.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\51355.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0487.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30871.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\32671.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1865.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0138.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36249.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0420.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34284.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\13687.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43847.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40498.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0068.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58777.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1284.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\03189.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0973.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05024.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\04529.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\63920.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\19443.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\22548.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1108.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\56119.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\28815.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0975.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1649.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23428.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09548.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44835.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37113.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1247.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1982.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1171.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\14790.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0891.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02226.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66919.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0539.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0972.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61995.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\55270.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66308.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\19605.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0792.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\20352.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61699.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\48544.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36432.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1309.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0003.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\07457.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\42457.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1280.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05246.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\63866.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1120.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30855.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0859.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34355.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24232.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1804.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1426.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\32320.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0550.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\42938.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66069.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67747.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\00497.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\56680.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54463.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43543.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09076.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\32582.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47818.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\07087.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06889.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\70905.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0181.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1183.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\35959.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0457.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\13072.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\03357.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46338.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47959.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15518.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\72613.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67672.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34336.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67049.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0052.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40606.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02284.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\38236.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26178.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73009.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\01743.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25706.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1204.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0730.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46103.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\72561.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1420.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23870.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\71207.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24578.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1246.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36782.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1233.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1704.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\56280.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1394.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26004.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15069.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\04591.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1307.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30300.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\11875.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\28832.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53618.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0628.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06464.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\50445.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73160.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53783.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18113.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37358.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\22170.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\63103.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0660.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0088.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1508.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0997.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1959.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\42261.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\55593.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\20769.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\57817.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64114.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44635.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0717.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0246.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1714.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\00838.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15207.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\27757.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44093.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1857.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\68110.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02497.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25508.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0525.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\50773.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\60554.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\68250.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0603.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0813.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0260.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53644.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47881.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66304.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\00191.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73606.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\59228.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\41623.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\08449.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\13255.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\12361.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0768.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47606.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1491.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67715.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0342.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\63735.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09901.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43212.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\35077.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17901.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\19625.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34040.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\01077.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\60297.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0983.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\41714.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\04371.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\38300.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46849.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46272.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1489.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1001.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33435.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0230.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\08625.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17751.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0900.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0378.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\70843.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05545.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\57666.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\29277.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06853.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37277.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67847.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\63065.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73314.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1626.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0067.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18709.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52859.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0781.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0838.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54249.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\39477.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1899.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\31461.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\35075.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\70242.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\71989.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0968.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\69925.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\08391.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0875.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61355.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\16089.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17777.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54300.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15270.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02659.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64738.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\08139.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40262.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0969.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1448.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40811.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\19152.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\60675.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36484.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0372.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\41222.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09387.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1919.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0822.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46110.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\71897.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33089.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0082.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\11959.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\11849.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0692.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40134.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\01204.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\16820.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\08159.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1616.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53654.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53913.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\16620.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\31560.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\50502.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\69252.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\32726.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1941.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02507.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0719.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\71750.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0883.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\38504.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0433.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\29910.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\01454.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\41850.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0825.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\38269.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0689.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1009.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\39748.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30721.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15152.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23330.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52339.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\20176.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\27911.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\45284.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0196.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54168.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1829.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\29854.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15526.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21581.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36546.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\22758.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1928.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\07998.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0649.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0221.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21036.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43260.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\20219.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26598.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\54055.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1571.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0565.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0756.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21901.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1352.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\55086.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\48179.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\13639.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34008.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0576.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09041.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\11600.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30960.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73931.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0160.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\10422.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\04413.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52311.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0333.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\69767.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\22187.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1150.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\14903.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0279.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\51767.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58780.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37994.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0847.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17214.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43450.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0912.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0482.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64420.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\01130.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\36647.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\68151.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0564.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1767.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0678.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26118.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\60152.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\38127.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25796.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\51649.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53845.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\14298.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61668.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1266.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0790.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0914.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\65476.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\11626.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0294.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25838.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1207.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\31626.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\15459.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\08044.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\28978.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64369.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1856.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\69685.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\19366.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\00513.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\49009.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\39333.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\03951.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24195.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1552.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1341.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06574.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0540.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\57778.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05996.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1824.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1758.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0352.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1621.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0486.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1270.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\24126.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67536.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\49168.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1106.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1130.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17009.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\49458.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21215.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0889.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\69036.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0794.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0894.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\28360.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34464.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1064.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43791.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37157.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\41866.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\50905.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0461.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\50006.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23070.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44990.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18650.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0288.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1314.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0062.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\70371.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02766.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67218.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\12345.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0348.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0774.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\62162.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17921.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\12927.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\00253.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40694.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0801.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1702.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\35512.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1947.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61918.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\38537.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0667.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1898.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\16141.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\59421.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\28490.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\31346.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17952.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34028.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26907.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\39693.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37288.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\03560.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47208.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1897.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0236.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0994.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\65438.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1935.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\51196.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09749.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\11774.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1908.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1644.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06033.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\16432.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\64727.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\43127.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26823.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\69262.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47799.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67918.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0759.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40660.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\62327.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\62378.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1410.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53072.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46708.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\48977.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\70335.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\14069.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\72693.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1915.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09620.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1118.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\48897.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21082.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0314.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\72680.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52056.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30396.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\52982.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\40064.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\05584.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1493.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\58175.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0190.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33171.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0073.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\51991.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\22163.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1803.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1539.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0354.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\13668.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1916.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02153.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\27684.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1513.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23921.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1913.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\19801.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1216.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1114.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\38880.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1155.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0065.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47658.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0609.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\57899.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34007.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17363.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\06122.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21471.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0652.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1243.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09913.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0076.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\13538.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\07579.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\25884.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1781.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0050.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0066.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\30804.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0389.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1605.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\63882.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\65457.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18859.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1859.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\09975.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\01983.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\19989.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\14248.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21719.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0394.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21992.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\01751.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44354.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1160.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0349.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1668.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\48171.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1308.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\11267.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\32651.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\13539.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33906.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1302.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0007.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\66542.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0137.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1276.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\32359.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\67233.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0452.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0198.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0463.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\16945.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1694.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34188.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0109.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37763.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1256.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1748.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21579.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\32118.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\26558.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\65448.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\45860.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1206.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0654.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1775.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34949.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\55792.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44842.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1152.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\29778.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0710.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23714.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23211.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1611.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\49178.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1368.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1526.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1173.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\62054.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1503.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44295.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0071.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1169.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1500.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\23587.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\47615.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\37806.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0700.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\42645.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0167.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1353.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\53088.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\46644.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\17276.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0175.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\44783.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\62786.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\34458.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0848.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\63829.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1387.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\28291.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0793.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\33670.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\48630.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0585.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\18259.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0093.jpg",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\21338.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\02349.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1070.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\41353.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\61120.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\03999.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0423.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1683.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\55919.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0867.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\71767.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0952.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\10625.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_0023.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\31196.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\non_insect\\non_insect_1618.png",
+    "label": 0
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\73540.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\insect\\71126.jpg",
+    "label": 1
+  },
+  {
+    "path": "D:\\InsectClass\\experiments\\insect_detector\\data\\negative_extra\\pet_0035.jpg",
+    "label": 0
+  }
+]

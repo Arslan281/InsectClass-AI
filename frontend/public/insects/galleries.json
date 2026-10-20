@@ -1,0 +1,257 @@
+{
+    "0": [
+        {
+            "src": "/insects/insect_00_1.jpg",
+            "option": 4,
+            "caption": "Adult spotted lanternfly displaying its colorful wings"
+        },
+        {
+            "src": "/insects/insect_00_2.jpg",
+            "option": 3,
+            "caption": "Spotted lanternfly resting on tree bark"
+        },
+        {
+            "src": "/insects/insect_00_3.jpg",
+            "option": 5,
+            "caption": "Group of spotted lanternflies on a tree trunk"
+        }
+    ],
+    "1": [
+        {
+            "src": "/insects/insect_01_1.jpg",
+            "option": 5,
+            "caption": "Green aphids feeding together on vegetation"
+        },
+        {
+            "src": "/insects/insect_01_2.jpg",
+            "option": 3,
+            "caption": "Dense aphid colony on a plant stem"
+        },
+        {
+            "src": "/insects/insect_01_3.jpg",
+            "option": 9,
+            "caption": "Close-up of a green aphid"
+        }
+    ],
+    "2": [
+        {
+            "src": "/insects/insect_02_1.jpg",
+            "option": 9,
+            "caption": "Adult blister beetle on vegetation"
+        },
+        {
+            "src": "/insects/insect_02_2.jpg",
+            "option": 3,
+            "caption": "Red and black beetle on a leaf"
+        },
+        {
+            "src": "/insects/insect_02_3.jpg",
+            "option": 4,
+            "caption": "Beetle visiting a flower"
+        }
+    ],
+    "3": [
+        {
+            "src": "/insects/insect_03_1.jpg",
+            "option": 9,
+            "caption": "Corn-boring caterpillars visible among maize kernels"
+        },
+        {
+            "src": "/insects/insect_03_2.jpg",
+            "option": 4,
+            "caption": "Caterpillar feeding on a corn ear"
+        },
+        {
+            "src": "/insects/insect_03_3.jpg",
+            "option": 8,
+            "caption": "Adult moth photographed with wings spread"
+        }
+    ],
+    "4": [
+        {
+            "src": "/insects/insect_04_1.jpg",
+            "option": 4,
+            "caption": "Mole Cricket - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_04_2.jpg",
+            "option": 3,
+            "caption": "Mole Cricket - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_04_3.jpg",
+            "option": 6,
+            "caption": "Mole Cricket - gallery photograph 3"
+        }
+    ],
+    "5": [
+        {
+            "src": "/insects/insect_05_1.jpg",
+            "option": 3,
+            "caption": "Beet Armyworm - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_05_2.jpg",
+            "option": 1,
+            "caption": "Beet Armyworm - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_05_3.jpg",
+            "option": 5,
+            "caption": "Beet Armyworm - gallery photograph 3"
+        }
+    ],
+    "6": [
+        {
+            "src": "/insects/insect_06_1.jpg",
+            "option": 1,
+            "caption": "Legume Blister Beetle - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_06_2.jpg",
+            "option": 5,
+            "caption": "Legume Blister Beetle - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_06_3.jpg",
+            "option": 8,
+            "caption": "Legume Blister Beetle - gallery photograph 3"
+        }
+    ],
+    "7": [
+        {
+            "src": "/insects/insect_07_1.jpg",
+            "option": 4,
+            "caption": "Limacodidae - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_07_2.jpg",
+            "option": 8,
+            "caption": "Limacodidae - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_07_3.jpg",
+            "option": 3,
+            "caption": "Limacodidae - gallery photograph 3"
+        }
+    ],
+    "8": [
+        {
+            "src": "/insects/insect_08_1.jpg",
+            "option": 2,
+            "caption": "Locustoidea - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_08_2.jpg",
+            "option": 1,
+            "caption": "Locustoidea - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_08_3.jpg",
+            "option": 8,
+            "caption": "Locustoidea - gallery photograph 3"
+        }
+    ],
+    "9": [
+        {
+            "src": "/insects/insect_09_1.jpg",
+            "option": 8,
+            "caption": "Cicadella viridis - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_09_2.jpg",
+            "option": 5,
+            "caption": "Cicadella viridis - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_09_3.jpg",
+            "option": 7,
+            "caption": "Cicadella viridis - gallery photograph 3"
+        }
+    ],
+    "10": [
+        {
+            "src": "/insects/insect_10_1.jpg",
+            "option": 9,
+            "caption": "Xylotrechus - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_10_2.jpg",
+            "option": 1,
+            "caption": "Xylotrechus - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_10_3.jpg",
+            "option": 6,
+            "caption": "Xylotrechus - gallery photograph 3"
+        }
+    ],
+    "11": [
+        {
+            "src": "/insects/insect_11_1.jpg",
+            "option": 5,
+            "caption": "Grub - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_11_2.jpg",
+            "option": 4,
+            "caption": "Grub - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_11_3.jpg",
+            "option": 1,
+            "caption": "Grub - gallery photograph 3"
+        }
+    ],
+    "12": [
+        {
+            "src": "/insects/insect_12_1.jpg",
+            "option": 7,
+            "caption": "Rice Water Weevil - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_12_2.jpg",
+            "option": 3,
+            "caption": "Rice Water Weevil - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_12_3.jpg",
+            "option": 6,
+            "caption": "Rice Water Weevil - gallery photograph 3"
+        }
+    ],
+    "13": [
+        {
+            "src": "/insects/insect_13_1.jpg",
+            "option": 5,
+            "caption": "Flea Beetle - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_13_2.jpg",
+            "option": 7,
+            "caption": "Flea Beetle - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_13_3.jpg",
+            "option": 2,
+            "caption": "Flea Beetle - gallery photograph 3"
+        }
+    ],
+    "14": [
+        {
+            "src": "/insects/insect_14_1.jpg",
+            "option": 5,
+            "caption": "Cottony Cushion Scale - gallery photograph 1"
+        },
+        {
+            "src": "/insects/insect_14_2.jpg",
+            "option": 3,
+            "caption": "Cottony Cushion Scale - gallery photograph 2"
+        },
+        {
+            "src": "/insects/insect_14_3.jpg",
+            "option": 2,
+            "caption": "Cottony Cushion Scale - gallery photograph 3"
+        }
+    ]
+}

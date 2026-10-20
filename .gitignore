@@ -1,0 +1,51 @@
+# Python environments and cache
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.log
+
+# Large datasets
+*.npy
+*.npz
+*.tar
+*.zip
+*.xlsx
+data/raw/
+data/ip102_v1.1/
+
+# Keep class mapping but exclude large processed data
+data/processed/*
+!data/processed/class_mapping.json
+
+# Exclude old ANN models
+models/*.keras
+models/backup_original/
+
+# Include final improved ANN models
+!models/improved_single_layer_s_full_noaug.keras
+!models/improved_multilayer_m_final_512.keras
+
+# Exclude temporary detector experiment files
+experiments/insect_detector/data/
+experiments/insect_detector/results/
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+experiments/insect_detector/models/insect_detector.keras
+experiments/insect_detector/models/insect_detector_v2.keras
